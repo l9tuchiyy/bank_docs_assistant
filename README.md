@@ -51,7 +51,7 @@
 Требования: Python 3.11+ и `pip`.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
+git clone https://github.com/l9tuchiyy/bank_docs_assistant.git
 cd <your-repository>
 
 python -m venv .venv
