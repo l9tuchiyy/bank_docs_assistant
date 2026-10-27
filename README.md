@@ -52,7 +52,7 @@
 
 ```bash
 git clone https://github.com/l9tuchiyy/bank_docs_assistant.git
-cd <your-repository>
+cd bank_docs_assistant
 
 python -m venv .venv
 ```
